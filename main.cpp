@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog eats
+dog.eat();
+//  action 3:   the dog chases tail
+dog.chasesTail();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tim
+//  action 1:   tim frowns
+tim.frown();
+//  action 2:   tim shakes his head
+tim.shakesHead();
+//  action 3:   tim cries
+tim.cry();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       flower
+//  action 1:   the flower grows
+flower.grow();
+//  action 2:   the flower wilts
+flower.wilt();
+//  action 3:   the flower starts to bloom
+flower.startsToBloom();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       car
+//  action 1:   the car breaks down
+car.breaksDown();
+//  action 2:   the car leaks petrol
+car.leaksPetrol();
+//  action 3:   the car rusts
+car.rust();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       lion
+//  action 1:   the lion roars
+lion.roar();
+//  action 2:   the lion stalks prey
+lion.stalksPrey();
+//  action 3:   the lion burps loudly
+lion.burpsLoudly();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       wizard
+//  action 1:   the wizard waves his wand
+wizard.wavesWand();
+//  action 2:   the wizard casts a spell
+wizard.castsSpell();
+//  action 3:   the wizard curses the village
+wizard.cursesVillage();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       whale
+//  action 1:   the whale buys crypto
+whale.buysCrypto();
+//  action 2:   the whale sells crypto
+whale.sellCrypto();
+//  action 3:   the whale crashes market
+whale.crashesMarket();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird   
+//  action 1:   the bird sings
+bird.sings();
+//  action 2:   the bird flies
+bird.flies();
+//  action 3:   the bird flaps wings
+bird.flapsWings();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       driver
+//  action 1:   the driver brakes hard
+driver.brakesHard();
+//  action 2:   the driver swerves left
+driver.swervesLeft();
+//  action 3:   the driver deploys ejector seat
+driver.deploysEjectorSeat();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       student
+//  action 1:   the student reads a book
+student.readsBook();
+//  action 2:   the student writes an essay
+student.writesEssay();
+//  action 3:   the student gets a job 
+student.getsJob();
 
 
 #endif
