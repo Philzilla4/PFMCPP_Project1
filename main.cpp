@@ -108,13 +108,13 @@ whale.sellCrypto();
 //  action 3:   the whale crashes market
 whale.crashesMarket();
 //  8)
-//  Noun:       bird   
-//  action 1:   the bird sings
-bird.sings();
-//  action 2:   the bird flies
-bird.flies();
-//  action 3:   the bird flaps wings
-bird.flapsWings();
+//  Noun:       atlantic ocean  
+//  action 1:   the atlantic ocean rocks the boat
+atlanticOcean.rocksBoat();
+//  action 2:   the atlantic ocean creates waves
+atlanticOcean.createsWaves();
+//  action 3:   the atlantic ocean wrecks ships
+atlanticOcean.wrecksShips();
 //  9)
 //  Noun:       driver
 //  action 1:   the driver brakes hard
